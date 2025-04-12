@@ -18,4 +18,7 @@ chmod +x backup-script.sh
 ```
 
 To  test it manually:
+
+```bash
 ./backup-script.sh
+```
