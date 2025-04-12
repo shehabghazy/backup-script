@@ -1,0 +1,5 @@
+Add to crontab -e to work every day at 11.59 PM
+# crontab -e
+# 59 23 * * * sudo /home/shehab/lab4/backup-script.sh
+# chmod +x /home/shehab/lab4/backup-script.sh
+
