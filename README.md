@@ -15,7 +15,7 @@ Edit the following variables in `daily_backup.sh`:
 Make the script executable:
 ```bash
 chmod +x backup-script.sh
-
+```
 
 To  test it manually:
 ./backup-script.sh
